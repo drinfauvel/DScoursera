@@ -2,6 +2,6 @@
 
 test only
 
-i am a nood in programming
+i am a noob in programming
 
 earlier than a beginner
